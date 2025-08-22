@@ -1,0 +1,8 @@
+2025-Aug-22-17:-00:-42:,ETL job started
+2025-Aug-22-17:-00:-42:,Extract phase started
+2025-Aug-22-17:-00:-42:,Extract phase ended
+2025-Aug-22-17:-00:-42:,Transform phase started
+2025-Aug-22-17:-00:-42:,Transform phase ended
+2025-Aug-22-17:-00:-42:,Load phase started
+2025-Aug-22-17:-00:-42:,Load phase ended
+2025-Aug-22-17:-00:-42:,ETL job ended
